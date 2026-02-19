@@ -10,3 +10,4 @@ shap
 openpyxl
 notebook
 ipykernel
+pyedflib
