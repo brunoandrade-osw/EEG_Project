@@ -11,3 +11,6 @@ openpyxl
 notebook
 ipykernel
 pyedflib
+mne-icalabel
+autoreject
+onnxruntime
