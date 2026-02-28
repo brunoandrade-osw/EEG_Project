@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+  neuro_jupyter:
+    build: .
+    ports:
+      - "8888:8888"
+    volumes:
+      - .:/projeto_isd_ppgn
+    environment:
+      - JUPYTER_TOKEN=isd2026
